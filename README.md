@@ -43,13 +43,13 @@
 <h2>📞 &nbsp; Connect Me </h2>
 
 <p>
-  <a href="https://sabzlearn.ir/">
+  <a href="#">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://t.me/aminkhoy78/">
+  <a href="https://t.me/Amir_fd_null">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
   </a>
-    <a href="https://t.me/aminkhoy78/">
+    <a href="https://www.linkedin.com/in/amirhossein-baghmirani/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
